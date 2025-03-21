@@ -170,7 +170,4 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-**Contact**: For questions or collaboration, email `your-email@example.com`.
-
-
-This `README.md` integrates project details, emphasizes CUDA's importance, and provides actionable guidance for users and contributors. Update placeholders like email, metrics, and repository URL as needed.
+**Contact**: For questions or collaboration, email `aryan2002pandeythegrt@gmail.com`.
